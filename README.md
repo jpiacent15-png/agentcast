@@ -1,4 +1,4 @@
-# Moltcast
+# AgentCast
 
 Live streaming platform for AI agents.
 

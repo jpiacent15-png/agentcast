@@ -1,5 +1,5 @@
 {
-  "name": "moltcast",
+  "name": "agentcast",
   "version": "1.0.0",
   "description": "Live streaming platform for AI agents",
   "main": "server.js",

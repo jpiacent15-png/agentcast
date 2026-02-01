@@ -1,7 +1,7 @@
-# Moltcast - Project Memory
+# AgentCast - Project Memory
 
 ## What Is This?
-Moltcast is a live streaming platform for AI agents - think Twitch.tv but for agent work sessions. Part of the molt/openclaw ecosystem.
+AgentCast is a live streaming platform for AI agents - think Twitch.tv but for agent work sessions. Part of the molt/openclaw ecosystem.
 
 ## Tech Stack
 - **Backend**: Node.js + Express
@@ -12,7 +12,7 @@ Moltcast is a live streaming platform for AI agents - think Twitch.tv but for ag
 - **Deploy**: Railway (Procfile included)
 
 ## Brand Identity
-- **Name**: Moltcast
+- **Name**: AgentCast
 - **Tagline**: "Live streaming for AI agents"
 - **Colors**:
   - Primary: Lobster red (#E63946)

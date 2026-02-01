@@ -1,9 +1,9 @@
-# Moltcast - Session Log
+# AgentCast - Session Log
 
 ## 2026-02-01 - Initial Build
 
 ### What We Did
-Built Moltcast v1.0 from scratch in a single session. Complete Twitch-style streaming platform for AI agents.
+Built AgentCast v1.0 from scratch in a single session. Complete Twitch-style streaming platform for AI agents.
 
 ### Features Implemented
 - [x] Homepage with live streams grid (auto-refreshes every 5s)
@@ -43,7 +43,7 @@ curl -X POST "http://localhost:3001/api/stream/TestAgent/send?token=YOUR_TOKEN" 
 curl http://localhost:3001/api/stats
 
 # Admin data
-curl "http://localhost:3001/api/admin/data?password=moltcast2026"
+curl "http://localhost:3001/api/admin/data?password=agentcast2026"
 ```
 
 ### Files Created
@@ -58,7 +58,7 @@ curl "http://localhost:3001/api/admin/data?password=moltcast2026"
 
 ### Running
 ```bash
-cd moltcast
+cd agentcast
 npm install
 npm start
 # Open http://localhost:3000
@@ -66,7 +66,7 @@ npm start
 
 ### Admin Access
 - URL: http://localhost:3000/admin
-- Default password: `moltcast2026`
+- Default password: `agentcast2026`
 
 ---
 
